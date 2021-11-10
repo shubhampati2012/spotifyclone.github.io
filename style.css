@@ -1,0 +1,88 @@
+body {
+  margin: 0;
+  height: 600px;
+  /* background-image: url("https://media.istockphoto.com/photos/green-abstract-background-picture-id168367507?b=1&k=20&m=168367507&s=170667a&w=0&h=wfHMhwGPhsQeQx9VLHReCfwKmMdVY6eA0T89Tn4WgXc="); */
+}
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  height: 70px;
+  width: 100%;
+  background-color: black;
+}
+.log {
+  height: 70px;
+}
+.text {
+  width: 20px;
+  height: 5px;
+  color: white;
+}
+.maintext:hover{
+  text-decoration: underline;
+}
+.colo {
+  color: red;
+}
+.login {
+  height: 40px;
+}
+.mainbody {
+  display: flex;
+}
+ .sidebar {
+  width: 250px;
+  height: 600px;
+  background-image: url(https://images.unsplash.com/photo-1579546929518-9e396f3cc809?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bGlnaHQlMjBjb2xvdXJ8ZW58MHx8MHx8&ixlib=rb-1.2.1&w=1000&q=80);
+}
+.midbar {
+  width: 1200px;
+  height: 600px;
+  background-image: url("https://media.istockphoto.com/photos/green-abstract-background-picture-id168367507?b=1&k=20&m=168367507&s=170667a&w=0&h=wfHMhwGPhsQeQx9VLHReCfwKmMdVY6eA0T89Tn4WgXc=");
+  }
+  .songpic {
+    display: flex;
+    padding: 20px;
+  }
+  .pic1{
+    width: 400px;
+    height: 200px;
+    background-image: url(https://i1.wp.com/www.socialnews.xyz/wp-content/uploads/2019/01/02/maxresdefault-10.jpg?fit=1200%2C675&quality=80&zoom=1&ssl=1&resize=350%2C200);
+    margin: 10px;
+    padding: 20px;
+  }
+  .pic2{
+    width: 400px;
+    height: 200px;
+    background-image: url(https://i2.wp.com/tellyflight.com/lyrics/wp-content/uploads/2021/06/qHILe297r7o-HD.jpg?resize=350%2C250&ssl=1);
+    margin: 10px;
+    padding: 20px;
+  }
+  .pic3{
+    width: 400px;
+    height: 200px;
+    background-image: url(https://bollywoodmovieposters.com/wp-content/uploads/2021/02/3-idiots-film-aamir-khan-movie-posters-254x356.jpg);
+    margin: 10px;
+    padding: 20px;
+  }
+  .pic4{
+    width: 400px;
+    height: 200px;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzgHcokElCfXsDPmGSXrUEjbZYZub-017-yg&usqp=CAU);
+    margin: 10px;
+    padding: 20px;
+  }
+  .pic5{
+    width: 400px;
+    height: 200px;
+    background-image: url(https://upload.wikimedia.org/wikipedia/en/e/e9/Ramleela_poster.jpg);
+    margin: 10px;
+    padding: 20px;
+  }
+  .pic6{
+    width: 400px;
+    height: 200px;
+    background-image: url(https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Dil_Se_poster.jpg/220px-Dil_Se_poster.jpg);
+    margin: 10px;
+    padding: 20px;
+  }
